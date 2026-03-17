@@ -1,9 +1,14 @@
-Hi, I’m Abjith
-I’m interested in machine learning , power bi
-I’m currently learning data science
-How to reach me abjithanilkumarap@gmail.com
+Hi, I'm Abjith A 👋
+AI / GenAI Engineer · RAG · LangChain · AWS Bedrock
 
-<!---
-Abjith7/Abjith7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building production-grade AI systems that solve real problems — not just demos.
+
+
+🧠 What I do
+I design and deploy end-to-end GenAI applications — from RAG pipelines and LLM orchestration to multi-agent workflows and accessibility-focused AI. My work runs in production, serving real users, on AWS.
+
+🔍 RAG & Retrieval — LangChain, LlamaIndex, ChromaDB, FAISS, semantic search, hybrid retrieval
+🤖 LLM Orchestration — LangGraph, tool calling, agent workflows, structured reasoning
+☁️ Cloud AI — AWS Bedrock, SageMaker, Lambda, S3 · Vertex AI (exposure)
+🧩 APIs & Backend — FastAPI, REST APIs, Streamlit, Docker
+📊 ML & Data — HuggingFace, OpenAI API, scikit-learn, Pandas, NumPy
